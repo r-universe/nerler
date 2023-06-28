@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "JointAI"]
 	path = JointAI
 	url = https://github.com/nerler/jointai
-	shallow = true
-	registered = true
